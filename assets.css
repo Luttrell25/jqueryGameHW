@@ -1,0 +1,30 @@
+.container-master {
+  align-items: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.question-container {
+  align-items: center;
+  text-align: center;
+}
+
+.answers {
+  padding-bottom: 30px;
+}
+
+.jumbotron {
+  padding-bottom: 50px;
+}
+
+.time-left {
+  text-align: center;
+  align-items: center;
+  padding-left: 5%;
+}
+
+.button-answer {
+  background: lightyellow;
+}
